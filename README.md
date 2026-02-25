@@ -6,11 +6,11 @@
 
 # 👋 Hi, I'm Phúc Lục (PhucLuc1902)
 
-🎓 I am a Computer Engineering student at Ho Chi Minh University of Technology <br>
-💡 Interested in **Embedded Systems, Firmware, and Low-level Software Engineering** 
-⚙️ Hands-on with **STM32, Arduino, and ESP platforms** using **C/C++ and FreeRTOS** <br>
+🎓 Computer Engineering student at Ho Chi Minh University of Technology  
+💡 Interested in **Embedded Systems, Firmware, and Low-level Software Engineering**  
+⚙️ Hands-on experience with **STM32, Arduino, and ESP platforms** using **C/C++ and FreeRTOS**  
+🧠 Enjoy working close to hardware, building reliable systems, and understanding how software works under the hood  
 📫 Contact: **tanphuc1902@gmail.com**
-
 ---
 
 ### 🧠 Tech Stack
