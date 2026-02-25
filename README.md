@@ -7,7 +7,7 @@
 # 👋 Hi, I'm Phúc Lục (PhucLuc1902)
 
 🎓 I am a Computer Engineering student at Ho Chi Minh University of Technology <br>
-💡 Interested in **Embedded field** <br>
+💡 Interested in **Embedded Systems, Firmware, and Low-level Software Engineering** 
 ⚙️ Hands-on with **STM32, Arduino, and ESP platforms** using **C/C++ and FreeRTOS** <br>
 📫 Contact: **tanphuc1902@gmail.com**
 
@@ -28,7 +28,7 @@
   Design an Inventory Manager using XArrayList/DLinkedList data structures 
 
 ### 🧩 Quote of the Day
-> “Embedded engineering is the art of fitting certainty into constraints—timing, memory, and power.”
+> “Good engineering is about building reliable systems under real-world constraints.”
 
 ---
 ### 🧠 Fun Fact
